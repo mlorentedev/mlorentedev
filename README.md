@@ -1,7 +1,6 @@
 # Welcome to my place
 
-### This si what I know
-
+### This is what I know
 <div align="left">
   <table>
     <tr>
