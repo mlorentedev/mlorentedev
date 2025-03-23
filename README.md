@@ -1,6 +1,6 @@
 # Welcome to my place
 
-### This is what I know
+### Here’s what I know
 <div align="left">
   <table>
     <tr>
@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <th>CI/CD</th>
-      <th>Embedded</th>
+      <th>Embedded Systems</th>
       <th>Observability</th>
     </tr>
     <tr>
@@ -84,7 +84,7 @@
 **2019**   Master's in Embedded Electronic Systems, University of Málaga  
 **2018**   Bachelor's in Telecommunications Engineering, University of Seville  
 
-### And here is where I put it into practice
+### And where I put it into practice
 🇺🇸 Denver, USA (2024-now)  
 🇪🇸 Seville, Spain (2015-2017 & 2019-2024)  
 🇨🇳 Shenzhen, China (2018-2019)  
