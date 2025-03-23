@@ -1,5 +1,3 @@
-# Welcome to my place
-
 ### Here’s what I know
 <div align="left">
   <table>
