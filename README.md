@@ -82,7 +82,7 @@
 **2019**   Master's in Embedded Electronic Systems, University of Malaga  
 **2018**   Bachelor's in Telecommunications Engineering, University of Seville  
 
-### And where I put it into practice
+### And where I applied it
 🇺🇸 Denver, USA (2024-now)  
 🇪🇸 Seville, Spain (2015-2017 & 2019-2024)  
 🇨🇳 Shenzhen, China (2018-2019)  
