@@ -81,7 +81,7 @@
 **2024**   AWS Cloud Practitioner  
 **2024**   Microsoft Certified Azure Fundamentals  
 **2023**   Master's in Cloud Native Application Development, Rey Juan Carlos University    
-**2019**   Master's in Embedded Electronic Systems, University of Málaga  
+**2019**   Master's in Embedded Electronic Systems, University of Malaga  
 **2018**   Bachelor's in Telecommunications Engineering, University of Seville  
 
 ### And where I put it into practice
