@@ -1,11 +1,11 @@
-# Bienvenido
+# Welcome to my place
 
-### Esto es lo que sé
+### This si what I know
 
 <div align="left">
   <table>
     <tr>
-      <th>Programación</th>
+      <th>Programming</th>
       <th>Cloud & DevOps</th>
       <th>Backend & DB</th>
     </tr>
@@ -77,16 +77,16 @@
   </table>
 </div>
 
-### Así lo aprendí
+### How I learned it
 **2025**   Linux Foundation Certified IT Associate  
 **2024**   AWS Cloud Practitioner  
 **2024**   Microsoft Certified Azure Fundamentals  
-**2023**   Máster en Desarrollo de Aplicaciones Cloud Native, Universidad Rey Juan Carlos    
-**2019**   Máster en Sistemas Electrónicos Embebidos, Universidad de Málaga  
-**2018**   Grado en Ingeniería de Telecomunicaciones, Universidad de Sevilla  
+**2023**   Master's in Cloud Native Application Development, Rey Juan Carlos University    
+**2019**   Master's in Embedded Electronic Systems, University of Málaga  
+**2018**   Bachelor's in Telecommunications Engineering, University of Seville  
 
-### Y aquí lo puse en práctica
-🇺🇸 Denver, USA (2024-Presente)  
-🇪🇸 Sevilla, España (2015-2017 y 2019-2024)  
+### And here is where I put it into practice
+🇺🇸 Denver, USA (2024-now)  
+🇪🇸 Seville, Spain (2015-2017 & 2019-2024)  
 🇨🇳 Shenzhen, China (2018-2019)  
-🇫🇷 Grenoble, Francia (2017-2018)
+🇫🇷 Grenoble, France (2017-2018)
