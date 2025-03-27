@@ -76,10 +76,12 @@
 </div>
 
 ### How I learned it
-**2025**   Linux Foundation Certified IT Associate  
-**2024**   AWS Cloud Practitioner  
-**2024**   Microsoft Certified Azure Fundamentals  
-**2023**   Master's in Cloud Native Application Development, Rey Juan Carlos University    
+
+Few certifications like Linux LFCA, AWS Cloud Practitioner, and more in the pipeline.  
+
+But formally, this is my academical background:  
+
+**2023**   Master's in Cloud Native Applications Development, Rey Juan Carlos University    
 **2019**   Master's in Embedded Electronic Systems, University of Malaga  
 **2018**   Bachelor's in Telecommunications Engineering, University of Seville  
 
