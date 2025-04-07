@@ -74,19 +74,3 @@
     </tr>
   </table>
 </div>
-
-### How I learned it
-
-Few certifications like Linux LFCA, AWS Cloud Practitioner, and more in the pipeline.  
-
-But formally, this is my academical background:  
-
-**2023**   Master's in Cloud Native Applications Development, Rey Juan Carlos University    
-**2019**   Master's in Embedded Electronic Systems, University of Malaga  
-**2018**   Bachelor's in Telecommunications Engineering, University of Seville  
-
-### And where I applied it
-🇺🇸 Denver, USA (2024-now)  
-🇪🇸 Seville, Spain (2015-2017 & 2019-2024)  
-🇨🇳 Shenzhen, China (2018-2019)  
-🇫🇷 Grenoble, France (2017-2018)
