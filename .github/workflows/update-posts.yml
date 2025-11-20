@@ -16,4 +16,5 @@ jobs:
               with:
                 max_post_count: 3
                 feed_list: "https://mlorente.dev/feed.xml"
-                template: "- [$title](https://mlorente.dev$url)"
+                template: "\n [$title](https://mlorente.dev$url) - *$date*"
+                date_format: "dd/mm/yyyy"
