@@ -36,8 +36,8 @@
 
 ### Latest Notes
 
-<!-- BLOG-POST-LIST:START -->- [O yes! The Big O Notation](https://mlorente.dev/2024-11-17-o-yes-the-big-o-notation/) — *2024/00/17*
+<!-- BLOG-POST-LIST:START -->
+- [O yes! The Big O Notation](https://mlorente.dev/2024-11-17-o-yes-the-big-o-notation/) — *2024/00/17*
 - [The power of estimations](https://mlorente.dev/2024-10-27-the-power-of-estimations/) — *2024/00/27*
 - [Unlocking the efficiency with algorithms](https://mlorente.dev/2024-10-06-unlocking-the-efficiency-with-algorithms/) — *2024/00/06*
-- [Scaling Beyond a Single Server](https://mlorente.dev/2024-09-15-scaling-beyond-a-single-server/) — *2024/00/15*
-<!-- BLOG-POST-LIST:END -->
+- [Scaling Beyond a Single Server](https://mlorente.dev/2024-09-15-scaling-beyond-a-single-server/) — *2024/00/15*<!-- BLOG-POST-LIST:END -->
