@@ -43,4 +43,7 @@
 
 ### Latest Notes
 <!-- BLOG-POST-LIST:START -->
+- [O yes! The Big O Notation](/2024-11-17-o-yes-the-big-o-notation/)
+- [The power of estimations](/2024-10-27-the-power-of-estimations/)
+- [Unlocking the efficiency with algorithms](/2024-10-06-unlocking-the-efficiency-with-algorithms/)
 <!-- BLOG-POST-LIST:END -->
