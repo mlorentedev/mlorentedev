@@ -41,8 +41,4 @@
 ---
 
 ### Latest Notes
-<!-- BLOG-POST-LIST:START -->
-
-- [O yes! The Big O Notation](https://mlorente.dev/2024-11-17-o-yes-the-big-o-notation/)- [The power of estimations](https://mlorente.dev/2024-10-27-the-power-of-estimations/)- [Unlocking the efficiency with algorithms](https://mlorente.dev/2024-10-06-unlocking-the-efficiency-with-algorithms/)
-
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[O yes! The Big O Notation](https://mlorente.dev/2024-11-17-o-yes-the-big-o-notation/) - *17/11/2024*[The power of estimations](https://mlorente.dev/2024-10-27-the-power-of-estimations/) - *27/10/2024*[Unlocking the efficiency with algorithms](https://mlorente.dev/2024-10-06-unlocking-the-efficiency-with-algorithms/) - *06/10/2024*<!-- BLOG-POST-LIST:END -->
