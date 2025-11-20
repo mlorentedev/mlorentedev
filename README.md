@@ -39,14 +39,6 @@
 <span style="font-family: monospace; color: #6e7681;">C++ / VHDL / FreeRTOS</span>
 
 
-### Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlorentedev&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&text_color=6e7681&icon_color=00ADD8" alt="GitHub Stats" height="150"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/mlorentedev/mlorentedev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-
 ---
 
 ### Latest Notes
