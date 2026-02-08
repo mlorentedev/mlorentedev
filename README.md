@@ -1,8 +1,8 @@
 # Manu Lorente
 
-**Platform Engineer**  
+**Engineer**  
 
-*Building scalable infrastructure, internal platforms for developers, and automation tools.*
+*Building scalable infrastructure, internal platforms, systems, and automation tools.*
 
 ---
 
@@ -31,6 +31,17 @@
 #### Legacy
 
 ![C++](https://img.shields.io/badge/C++-999999?style=flat-square&logo=c%2B%2B&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-999999?style=flat-square&logo=intel&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-999999?style=flat-square&logo=freertos&logoColor=white)
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [ts-bridge](https://github.com/mlorentedev/ts-bridge) | TCP bridge via Tailscale userspace networking (Go) |
+| [pdf-modifier-mcp](https://github.com/mlorentedev/pdf-modifier-mcp) | MCP server + CLI for PDF text replacement (Python) |
+| [dotfiles](https://github.com/mlorentedev/dotfiles) | Dev environment with secrets management |
+| [cloud-architecture-patterns](https://github.com/mlorentedev/cloud-architecture-patterns) | 15 microservices patterns: CQRS, hexagonal, sagas, chaos engineering (Spring Boot, K8s) |
 
 ---
 
