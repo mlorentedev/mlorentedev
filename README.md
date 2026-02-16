@@ -1,9 +1,5 @@
 # Manu Lorente
 
-**Engineer**  
-
----
-
 ### Tech Stack
 
 #### Infra & Cloud
