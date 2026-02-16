@@ -1,7 +1,6 @@
 # Manu Lorente
 
-Engineer at [Teledyne-e2v](https://imaging.teledyne-e2v.com/). From silicon to cloud. I've worked across the full stack, from FPGA
-and embedded systems to Kubernetes clusters and cloud infrastructure.
+Engineer at [Teledyne-e2v](https://imaging.teledyne-e2v.com/). I've worked across the full stack, from FPGA and embedded systems to Kubernetes clusters and cloud infrastructure.
 
 ---
 
@@ -9,7 +8,6 @@ and embedded systems to Kubernetes clusters and cloud infrastructure.
 
 #### Infra & Cloud
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
