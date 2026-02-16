@@ -2,8 +2,6 @@
 
 **Engineer**  
 
-*Building scalable infrastructure, internal platforms, systems, and automation tools.*
-
 ---
 
 ### Tech Stack
