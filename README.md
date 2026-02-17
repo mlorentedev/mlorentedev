@@ -1,6 +1,7 @@
 # Manu Lorente
 
-Engineer at [Teledyne-e2v](https://imaging.teledyne-e2v.com/). I've worked across the full stack, from FPGA and embedded systems to Kubernetes clusters and cloud infrastructure.
+Engineer at [Teledyne-e2v](https://imaging.teledyne-e2v.com/). I've worked across the full stack, from FPGA and embedded systems to Kubernetes clusters and cloud infrastructure.  
+From silicon to cloud.
 
 ---
 
