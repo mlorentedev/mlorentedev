@@ -1,6 +1,6 @@
 # Hi, I'm Manu 👋
 
-📍 **USA - Spain** | 🔧 **From silicon to K8s clusters** | 🏢 **Engineer @ [Teledyne-e2v](https://imaging.teledyne-e2v.com/)**
+📍 **USA - Spain** | 📡 **Telecommunications Engineer** | 🔧 **From silicon to K8s clusters**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
