@@ -11,29 +11,31 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> Started writing code for image sensors, ended up automating everything around them. Now I self-host, deploy, monitor, and build tools to make infrastructure less painful.
+> Started writing code for image sensors, ended up automating everything around them. Now I focus on self-hosting, deployment reliability, and building tools to make infrastructure less painful.
 
 ## Projects
 
-- **[CubeLab](https://github.com/mlorentedev/cubelab)** — The stack behind [cubelab.cloud](https://cubelab.cloud): Astro, Go, and n8n, fully monitored with Prometheus/Grafana and deployed via Ansible.
-- **[Pollex](https://github.com/mlorentedev/pollex)** — A Go API that uses a local LLM (Qwen 2.5 on a Jetson Nano) to polish my English text. Includes SLO-based alerting because I like reliability.
-- **[ts-bridge](https://github.com/mlorentedev/ts-bridge)** — A Tailscale bridge to forward TCP traffic without needing admin privileges on the machine.
-- **[pdf-modifier-mcp](https://github.com/mlorentedev/pdf-modifier-mcp)** — MCP server + CLI to replace text in PDFs while keeping the original font styles intact.
-- **[youtube-toolkit](https://github.com/mlorentedev/youtube-toolkit)** — A CLI tool I use to download transcripts and analyze YouTube channel data.
+- 🧊 **[cubeLab](https://github.com/mlorentedev/cubelab)** — My over-engineered playground running on Astro, Go, and n8n. Fully monitored because I like graphs.
+- ✍️ **[pollex](https://github.com/mlorentedev/pollex)** — My AI editor. Runs Qwen 2.5 on a Jetson Nano because cloud fees are boring. Includes SLOs.
+- 🌉 **[ts-bridge](https://github.com/mlorentedev/ts-bridge)** — Forward TCP traffic over Tailscale without needing sudo. Simple and effective.
+- 📄 **[pdf-modifier-mcp](https://github.com/mlorentedev/pdf-modifier-mcp)** — Edit PDFs without losing font styles. It's like magic, but with code.
+- 📺 **[youtube-toolkit](https://github.com/mlorentedev/youtube-toolkit)** — Downloading transcripts to analyze channels. Data hoarding 101.
 
 <details> <summary>Academic work</summary>
 
-- **[zuidui](https://github.com/zuidui)** — Master's Thesis: Cloud-native microservices on AWS EKS using FastAPI, GraphQL, RabbitMQ, and GitOps (ArgoCD)
-- **[vicon-fpga-face-detection](https://github.com/mlorentedev/vicon-fpga-face-detection)** — Master's Thesis (UMA): Real-time image sensor integration on FPGA with PC-based face detection
-- **[emva1288-sensor-characterization](https://github.com/mlorentedev/emva1288-sensor-characterization)** — Bachelor's Thesis (US): Python library for EMVA 1288 camera sensor characterization
+- **[zuidui](https://github.com/zuidui)** — Master's Thesis: Cloud-native microservices on AWS EKS. The full buzzword bingo.
+- **[vicon-fpga-face-detection](https://github.com/mlorentedev/vicon-fpga-face-detection)** — Master's Thesis (UMA): Real-time face detection on FPGAs.
+- **[emva1288-sensor-characterization](https://github.com/mlorentedev/emva1288-sensor-characterization)** — Bachelor's Thesis (US): Python library for camera sensor characterization.
 
 </details>
 
 ## What I'm Doing
 
-- **Self-hosting** — Running [cubelab.cloud](https://cubelab.cloud) on my own infrastructure (complete with monitoring, alerts, and automated deploys).
-- **Building Go tools** — Solving my own daily friction points first, then open-sourcing them.
-- **Writing** — Notes on system design, scaling, and engineering at [mlorente.dev](https://mlorente.dev)
+- **Battling entropy** — Running [cubelab.cloud](https://cubelab.cloud) on my own bare metal clusters.
+- **Building tools** — Scratching my own itches with Go. If it annoys me, I write a tool for it.
+- **Dumping my brain** — Notes on system design and scaling at [mlorente.dev](https://mlorente.dev) so I don't forget how things work.
+
+![Manu's GitHub Chart](https://ghchart.rshah.org/0e7490/mlorentedev)
 
 ## Latest Notes
 <!-- BLOG-POST-LIST:START -->
@@ -43,6 +45,9 @@
 - [Scaling Beyond a Single Server](https://mlorente.dev/2024-09-15-scaling-beyond-a-single-server/) — *2024/09/15*
 <!--BLOG-POST-LIST:END -->
 
- ---
+## My Philosophy
 
-> "Understand every layer" — I'd rather know why something works than just make it work.
+- **No magic allowed** — I need to understand the underlying layers o-f-e-v-e-r-y-t-h-i-n-g. If I can't explain it, I don't trust it.
+- **Script everything** — If I have to do it twice, it's getting automated.
+- **Write it down** — I write ADRs and runbooks so future-me doesnt blame past-me.
+- **Own the metal** — Kubernetes on bare metal teaches you things AWS hides.
