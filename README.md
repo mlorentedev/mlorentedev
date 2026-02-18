@@ -1,62 +1,48 @@
-# Manu Lorente
+# Hi, I'm Manu 👋
 
-Engineer at [Teledyne-e2v](https://imaging.teledyne-e2v.com/). I've worked across the full stack, from FPGA and embedded systems to Kubernetes clusters and cloud infrastructure.  
-From silicon to cloud.
+📍 **USA - Spain** | 🔧 **From silicon to K8s clusters** | 🏢 **Engineer @ [Teledyne-e2v](https://imaging.teledyne-e2v.com/)**
 
----
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Tech Stack
+> Started writing code for image sensors, ended up automating everything around them. Now I self-host, deploy, monitor, and build tools to make infrastructure less painful.
 
-#### Infra & Cloud
+## Projects
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+- **[CubeLab](https://github.com/mlorentedev/cubelab)** — The stack behind [cubelab.cloud](https://cubelab.cloud): Astro, Go, and n8n, fully monitored with Prometheus/Grafana and deployed via Ansible.
+- **[Pollex](https://github.com/mlorentedev/pollex)** — A Go API that uses a local LLM (Qwen 2.5 on a Jetson Nano) to polish my English text. Includes SLO-based alerting because I like reliability.
+- **[ts-bridge](https://github.com/mlorentedev/ts-bridge)** — A Tailscale bridge to forward TCP traffic without needing admin privileges on the machine.
+- **[pdf-modifier-mcp](https://github.com/mlorentedev/pdf-modifier-mcp)** — MCP server + CLI to replace text in PDFs while keeping the original font styles intact.
+- **[youtube-toolkit](https://github.com/mlorentedev/youtube-toolkit)** — A CLI tool I use to download transcripts and analyze YouTube channel data.
 
-#### Core & Orchestration
+<details> <summary>Academic work</summary>
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefik&logoColor=white)
+- **[zuidui](https://github.com/zuidui)** — Master's Thesis: Cloud-native microservices on AWS EKS using FastAPI, GraphQL, RabbitMQ, and GitOps (ArgoCD)
+- **[vicon-fpga-face-detection](https://github.com/mlorentedev/vicon-fpga-face-detection)** — Master's Thesis (UMA): Real-time image sensor integration on FPGA with PC-based face detection
+- **[emva1288-sensor-characterization](https://github.com/mlorentedev/emva1288-sensor-characterization)** — Bachelor's Thesis (US): Python library for EMVA 1288 camera sensor characterization
 
-#### CI/CD & Ops
+</details>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+## What I'm Doing
 
-#### Scripting & Programming
+- **Self-hosting** — Running [cubelab.cloud](https://cubelab.cloud) on my own infrastructure (complete with monitoring, alerts, and automated deploys).
+- **Building Go tools** — Solving my own daily friction points first, then open-sourcing them.
+- **Writing** — Notes on system design, scaling, and engineering at [mlorente.dev](https://mlorente.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-#### Data
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-A41E11?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-#### Embedded & Hardware
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat-square&logo=intel&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00878F?style=flat-square&logo=freertos&logoColor=white)
----
-
-### What I'm working on
-
-- **[CubeLab](https://github.com/mlorentedev/cubelab)** — 5-node bare-metal homelab: Proxmox, K8s, Ansible, Tailscale
-- **[Pollex](https://github.com/mlorentedev/pollex)** — Self-hosted text polishing with LLM inference on Jetson Nano
-
----
-
-### Latest Notes
+## Latest Notes
 <!-- BLOG-POST-LIST:START -->
 - [O yes! The Big O Notation](https://mlorente.dev/2024-11-17-o-yes-the-big-o-notation/) — *2024/11/17*
 - [The power of estimations](https://mlorente.dev/2024-10-27-the-power-of-estimations/) — *2024/10/27*
-- [Unlocking the efficiency with algorithms](https://mlorente.dev/2024-10-06-unlocking-the-efficiency-with-algorithms/) —
-*2024/10/06*
+- [Unlocking the efficiency with algorithms](https://mlorente.dev/2024-10-06-unlocking-the-efficiency-with-algorithms/) — *2024/10/06*
 - [Scaling Beyond a Single Server](https://mlorente.dev/2024-09-15-scaling-beyond-a-single-server/) — *2024/09/15*
 <!--BLOG-POST-LIST:END -->
+
+ ---
+
+> "Understand every layer" — I'd rather know why something works than just make it work.
