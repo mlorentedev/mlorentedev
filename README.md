@@ -20,12 +20,22 @@
 - 🌉 **[ts-bridge](https://github.com/mlorentedev/ts-bridge)** — Forward TCP traffic over Tailscale without needing sudo. Simple and effective.
 - 📄 **[pdf-modifier-mcp](https://github.com/mlorentedev/pdf-modifier-mcp)** — Edit PDFs without losing font styles. It's like magic, but with code.
 - 📺 **[youtube-toolkit](https://github.com/mlorentedev/youtube-toolkit)** — Downloading transcripts to analyze channels. Data hoarding 101.
+- 🔌 **[kasa-provisioner](https://github.com/mlorentedev/kasa-provisioner)** — Provision and control TP-Link smart plugs offline. Because even my plugs don't need the cloud.
+- ⚙️ **[dotfiles](https://github.com/mlorentedev/dotfiles)** — Cross-platform dev environment with 106 tests, encrypted secrets, and AI tooling. Yes, I test my shell configs.
 
 <details> <summary>Academic work</summary>
+
+**Theses**
 
 - **[zuidui](https://github.com/zuidui)** — Master's Thesis: Cloud-native microservices on AWS EKS. The full buzzword bingo.
 - **[vicon-fpga-face-detection](https://github.com/mlorentedev/vicon-fpga-face-detection)** — Master's Thesis (UMA): image sensor integration on FPGA with PC-based face detection.
 - **[emva1288-sensor-characterization](https://github.com/mlorentedev/emva1288-sensor-characterization)** — Bachelor's Thesis (US): Python library for camera sensor characterization.
+
+**Coursework**
+
+- **[cloud-architecture-coursework](https://github.com/mlorentedev/cloud-architecture-coursework)** — Bunch of microservices and cloud projects: CQRS, hexagonal, sagas, chaos engineering, serverless on AWS.
+- **[embedded-systems-coursework](https://github.com/mlorentedev/embedded-systems-coursework)** — The "silicon" part: FPGA, FreeRTOS, OpenCV, Raspberry Pi, MSP430.
+- **[telecom-engineering](https://github.com/mlorentedev/telecom-engineering)** — Where it all started: Dijkstra in C, DNS client, PIC16F84A assembly, DSP audio effects.
 
 </details>
 
