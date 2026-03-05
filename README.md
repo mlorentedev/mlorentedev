@@ -1,7 +1,7 @@
-### Manu Lorente
+### Engineer & Builder
 
-Engineer. I build infrastructure and products — from hardware to Kubernetes.
+I build infrastructure and products. From hardware to Kubernetes.
 
 Cloud, on-prem, hybrid. If it needs to scale and not break, I've probably built it.
 
-[mlorente.dev](https://mlorente.dev) · hello@mlorente.dev
+[mlorente.dev](https://mlorente.dev)
